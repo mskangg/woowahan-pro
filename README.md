@@ -29,6 +29,11 @@
 - [6주차 - 서비스 진단하기](#6주차---서비스-진단하기)
   - [🚀 1단계 - 로깅과 모니터링](#-1단계---로깅과-모니터링)
   - [🚀 2단계 - 성능 테스트](#-2단계---성능-테스트)
+- [7주차 - 레거시 코드 리팩터링](#7주차---레거시-코드-리팩터링)
+  - [🚀 1단계 - 테스트를 통한 코드 보호](#-1단계---테스트를-통한-코드-보호)
+  - [🚀 2단계 - 서비스 리팩터링](#-2단계---서비스-리팩터링)
+  - [🚀 3단계 - 의존성 리팩터링](#-3단계---의존성-리팩터링)
+  - [🚀 4단계 - 멀티 모듈 적용](#-4단계---멀티-모듈-적용)
 
 ## 1주차 로또 - TDD
 
@@ -121,3 +126,21 @@
 ### 🚀 2단계 - 성능 테스트
 
 [PR](https://github.com/next-step/infra-subway-monitoring/pull/87)
+
+## 7주차 - 레거시 코드 리팩터링
+
+### 🚀 1단계 - 테스트를 통한 코드 보호
+
+[PR](https://github.com/next-step/jwp-refactoring/pull/167)
+
+### 🚀 2단계 - 서비스 리팩터링
+
+[PR](https://github.com/next-step/jwp-refactoring/pull/221)
+
+### 🚀 3단계 - 의존성 리팩터링
+
+[PR](https://github.com/next-step/jwp-refactoring/pull/238)
+
+### 🚀 4단계 - 멀티 모듈 적용
+
+[PR](https://github.com/next-step/jwp-refactoring/pull/266)
