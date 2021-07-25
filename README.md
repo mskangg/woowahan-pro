@@ -21,6 +21,11 @@
 - [4주차 - 그럴듯한 서비스 만들기](#4주차---그럴듯한-서비스-만들기)
   - [🚀 1단계 - 서비스 구성하기](#-1단계---서비스-구성하기)
   - [🚀 2단계 - 서비스 배포하기](#-2단계---서비스-배포하기)
+- [5주차 - 인수 테스트 기반 TDD](#5주차---인수-테스트-기반-tdd)
+  - [🚀 1단계 - 인수 테스트 기반 리팩터링](#-1단계---인수-테스트-기반-리팩터링)
+  - [🚀 2단계 - 경로 조회 기능](#-2단계---경로-조회-기능)
+  - [🚀 3단계 - 인증을 통한 기능 구현](#-3단계---인증을-통한-기능-구현)
+  - [🚀 4단계 - 요금 조회](#-4단계---요금-조회)
 
 ## 1주차 로또 - TDD
 
@@ -85,3 +90,21 @@
 ### 🚀 2단계 - 서비스 배포하기
 
 [PR](https://github.com/next-step/infra-subway-deploy/pull/80)
+
+## 5주차 - 인수 테스트 기반 TDD
+
+### 🚀 1단계 - 인수 테스트 기반 리팩터링
+
+[PR](https://github.com/next-step/atdd-subway-service/pull/162)
+
+### 🚀 2단계 - 경로 조회 기능
+
+[PR](https://github.com/next-step/atdd-subway-service/pull/193)
+
+### 🚀 3단계 - 인증을 통한 기능 구현
+
+[PR](https://github.com/next-step/atdd-subway-service/pull/226)
+
+### 🚀 4단계 - 요금 조회
+
+[PR](https://github.com/next-step/atdd-subway-service/pull/248)
